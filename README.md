@@ -1,5 +1,6 @@
 ### Hi there 👋
--I'm a student of Peter the Great St.Petersburg Polytechnic University, direction "Radio Engineering"
+-I'm a student of Peter the Great St.Petersburg Polytechnic University, direction "Radio Engineering" 
+ 
 -My interests: circuit design, modeling, programming
 <!--
 **1-Alexey-1/1-Alexey-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
