@@ -2,6 +2,8 @@
 
 <!--
 **1-Alexey-1/1-Alexey-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Peter the Great St.Petersburg Polytechnic University, direction "Radio Engineering"
+
 
 Here are some ideas to get you started:
 
